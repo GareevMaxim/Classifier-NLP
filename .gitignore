@@ -1,0 +1,11 @@
+data/
+*.csv
+*.txt
+*.pth
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.venv/
+venv/
+env/
